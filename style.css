@@ -1,0 +1,65 @@
+.header {
+  position: relative;
+  left: 23%;
+  font-size: 30px;
+  width: 65%;
+  border: 1px solid white;
+}
+
+div {
+  border: 1px solid;
+  border-radius: 5px;
+  width: 18%;
+  text-align: center;
+  font-size:11px;
+}
+
+.guru {
+  position: relative;
+  left: 45%;
+}
+
+.pengerusi{
+  position: relative;
+  left: 45%;
+}
+
+.naibp {
+  position: relative;
+  left: 45%;
+}
+
+.setiausaha {
+  position: relative;
+  left: 45%;
+}
+
+.naibs {
+  position: relative;
+  left: 45%;
+}
+
+.bendahari {
+  position: relative;
+  left: 45%;
+}
+
+.naibb {
+  position: relative;
+  left: 45%;
+}
+
+.ajkd {
+  position: relative;
+ left: 45%;
+}
+
+.ajkpn {
+  position: relative;
+  left: 45%;
+}
+
+.wsk {
+  position: relative;
+  left: 45%;
+}
